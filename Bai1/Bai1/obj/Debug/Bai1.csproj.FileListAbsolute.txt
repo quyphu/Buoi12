@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_2033210170\Bai1\Bai1\obj\Debug\Bai1.pdb
